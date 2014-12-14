@@ -6,6 +6,10 @@
 
 haskell
 
+vim cast
+
+bash  / shell 
+
 ML  / Ruby / Racket
 
 Scala
