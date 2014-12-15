@@ -26,6 +26,19 @@ Map Reduce
 
 Hadoop
 
+Lisp 
+
+Scheme 
+
+
+
+SQL
+
+
+Bootstrap
+
+AngularJS
+
 
 Clojure
 
@@ -81,6 +94,15 @@ Hardware
 
 
 JS - typescript
+
+
+
+Prolog
+
+
+C++
+Linux / Freebsd
+OpenBSD
 
 
 
